@@ -1,0 +1,40 @@
+### Hi, I'm Subhiksha Ganesan 👋
+
+I build full-stack applications with a focus on Java, Spring Boot, React, and modern web technologies.
+I enjoy building practical applications, experimenting with new technologies, and exploring the growing intersection of software engineering and AI.
+
+### 🔥 Projects
+
+- **[MyWordle](https://github.com/SubhikshaGanesan10/MyWordle)** — A game I love, turned into something I could build, one guess at a time.
+- **[E-CinemaX](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/E-CinemaX)** — Full-stack cinema booking application.
+- **[Food Donation App](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/HungerHero)** — Android application built with Java and Firebase.
+- **[Ride Sharing App](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/RideSharingApp)** — Android application built with Java and Firebase.
+
+### 🧰 Tech Stack
+
+**Languages:** Java, SQL, C#, JavaScript, TypeScript
+
+**Backend:** Spring Boot, Spring WebFlux, REST APIs, GraphQL, Microservices, Node.js
+
+**Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, jQuery
+
+**Databases:** MySQL, Microsoft SQL Server, PostgreSQL, Cassandra, Firebase
+
+**Tools:** Git, GitHub, GitLab, Docker, Kubernetes, Jenkins, Maven, Gradle, Postman, JIRA
+
+**AI / Emerging Interests:** Generative AI Integration, AI-Powered Applications, Machine Learning, Cloud Technologies
+
+### 📌 What I'm Working On
+
+- Strengthening my full-stack development skills
+- Building applications with Java, Spring Boot, and React
+- Exploring microservices, Docker, Kubernetes, and cloud technologies
+- Exploring AI integration in full-stack applications
+- Improving my projects and documenting what I learn along the way
+
+### 🤝 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/subhiksha)
+- 📧 [Email](mailto:ganesansubhiksha@gmail.com)
+
+⭐ Thanks for stopping by!
