@@ -17,6 +17,9 @@ I enjoy building practical applications, experimenting with new technologies, an
 **Ride Sharing App** — Android application built with Java and Firebase.
 → [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/RideSharingApp)
 
+**Prototype Design in Figma** — UI/UX prototype redesigning a school registration portal, built with Figma.
+→ [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/FigmaPrototype)
+
 ### 🧰 Tech Stack
 
 **Languages:** Java, SQL, C#, JavaScript, TypeScript
