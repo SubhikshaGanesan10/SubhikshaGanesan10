@@ -5,10 +5,17 @@ I enjoy building practical applications, experimenting with new technologies, an
 
 ### 🔥 Projects
 
-- **[MyWordle](https://github.com/SubhikshaGanesan10/MyWordle)** — A game I love, turned into something I could build, one guess at a time.
-- **[E-CinemaX](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/E-CinemaX)** — Full-stack cinema booking application.
-- **[Food Donation App](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/HungerHero)** — Android application built with Java and Firebase.
-- **[Ride Sharing App](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/RideSharingApp)** — Android application built with Java and Firebase.
+**MyWordle** — A game I love, turned into something I could build, one guess at a time.
+→ [Repository](https://github.com/SubhikshaGanesan10/MyWordle)
+
+**E-CinemaX** — Full-stack cinema booking application.
+→ [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/E-CinemaX)
+
+**Food Donation App** — Android application built with Java and Firebase.
+→ [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/HungerHero)
+
+**Ride Sharing App** — Android application built with Java and Firebase.
+→ [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/RideSharingApp)
 
 ### 🧰 Tech Stack
 
