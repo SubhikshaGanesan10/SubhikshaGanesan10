@@ -45,6 +45,7 @@ I enjoy building practical applications, experimenting with new technologies, an
 ### 🤝 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/subhiksha)
+- 🌐 [Portfolio](https://subhikshaganesan10.github.io/Portfolio/)
 - 📧 [Email](mailto:ganesansubhiksha@gmail.com)
 
 ⭐ Thanks for stopping by!
