@@ -8,6 +8,9 @@ I enjoy building practical applications, experimenting with new technologies, an
 **MyWordle** — A game I love, turned into something I could build, one guess at a time.
 → [Repository](https://github.com/SubhikshaGanesan10/MyWordle)
 
+**Simple Daily Planner** — A browser-based daily planner with task scheduling and local-storage persistence.
+→ [Repository](https://github.com/SubhikshaGanesan10/simple-daily-planner)
+
 **E-CinemaX** — Full-stack cinema booking application.
 → [Repository](https://github.com/SubhikshaGanesan10/Academic-Projects/tree/main/E-CinemaX)
 
